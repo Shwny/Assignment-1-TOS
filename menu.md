@@ -4,4 +4,5 @@ PANINI
 	Panino Primavera
 	Panino Vegetariano
 FRITTI
+	Olive Ascolane
 Paninoteca Padovana
