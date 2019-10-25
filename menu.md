@@ -5,4 +5,5 @@ PANINI
 	Panino Vegetariano
 FRITTI
 	Olive Ascolane
+	Arancini
 Paninoteca Padovana
