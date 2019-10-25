@@ -3,4 +3,5 @@ MENU
 PANINI
 	Panino Primavera
 	Panino Vegetariano
+FRITTI
 Paninoteca Padovana
